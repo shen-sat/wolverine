@@ -6,5 +6,5 @@ Gem::Specification.new do |spec|
   spec.authors     = ["Charles X"]
   spec.files       = ["lib/wolverine.rb"]
 
-  spec.add_development_dependency "rubocop", "0.67"
+  spec.add_development_dependency "rubocop", "0.87.0"
 end 
